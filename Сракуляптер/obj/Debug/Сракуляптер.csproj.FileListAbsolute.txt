@@ -1,0 +1,10 @@
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\obj\Debug\Сракуляптер.csprojAssemblyReference.cache
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\obj\Debug\Сракуляптер.easy.resources
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\obj\Debug\Сракуляптер.Properties.Resources.resources
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\obj\Debug\Сракуляптер.csproj.GenerateResource.cache
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\bin\Debug\Сракуляптер.exe.config
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\bin\Debug\Сракуляптер.exe
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\bin\Debug\Сракуляптер.pdb
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\obj\Debug\Сракуляптер.exe
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\obj\Debug\Сракуляптер.pdb
+D:\IS1-21_2020\Cи шарп\Сракуляптер\Сракуляптер\obj\Debug\Сракуляптер.advanced.resources
